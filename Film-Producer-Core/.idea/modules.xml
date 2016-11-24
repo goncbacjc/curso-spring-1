@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/film-producer-core.iml" filepath="$PROJECT_DIR$/film-producer-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/film-producer-core-dao/film-producer-core-dao.iml" filepath="$PROJECT_DIR$/film-producer-core-dao/film-producer-core-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/film-producer-core-model/film-producer-core-model.iml" filepath="$PROJECT_DIR$/film-producer-core-model/film-producer-core-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/film-producer-core-service/film-producer-core-service.iml" filepath="$PROJECT_DIR$/film-producer-core-service/film-producer-core-service.iml" />
+    </modules>
+  </component>
+</project>

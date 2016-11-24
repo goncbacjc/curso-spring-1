@@ -1,0 +1,3 @@
+com\film\producer\core\service\film\ActorServiceImpl.class
+com\film\producer\core\service\tranformer\ActorDataTransformer.class
+com\film\producer\core\service\ActorService.class
